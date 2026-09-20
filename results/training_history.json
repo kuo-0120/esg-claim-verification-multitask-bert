@@ -1,0 +1,72 @@
+{
+  "loss": [
+    1.056867582798004,
+    0.8867440068721771,
+    0.7047850787639618,
+    0.5136095750331878,
+    0.3773702436685562,
+    0.2620721035450697,
+    0.1865380708128214,
+    0.14734648570418357
+  ],
+  "weighted_score": [
+    0.3070337197225984,
+    0.5194032237187709,
+    0.5336342405063749,
+    0.545279089926898,
+    0.5507363937782206,
+    0.5232294037986034,
+    0.5369897324682489,
+    0.5218984305434519
+  ],
+  "task_loss": [
+    {
+      "promise_status": 0.6195971167087555,
+      "verification_timeline": 1.6014937412738801,
+      "evidence_status": 0.9988016813993454,
+      "evidence_quality": 1.1230959421396256
+    },
+    {
+      "promise_status": 0.4994934183359146,
+      "verification_timeline": 1.4329939031600951,
+      "evidence_status": 0.8121282868087292,
+      "evidence_quality": 0.9378792375326157
+    },
+    {
+      "promise_status": 0.3150696984678507,
+      "verification_timeline": 1.254512459039688,
+      "evidence_status": 0.6046176202595234,
+      "evidence_quality": 0.7777399364113807
+    },
+    {
+      "promise_status": 0.1719667966850102,
+      "verification_timeline": 1.0512887078523636,
+      "evidence_status": 0.3998990977555513,
+      "evidence_quality": 0.5758662039041519
+    },
+    {
+      "promise_status": 0.08901464979164303,
+      "verification_timeline": 0.9467946943640709,
+      "evidence_status": 0.2507967686653137,
+      "evidence_quality": 0.40659736417233944
+    },
+    {
+      "promise_status": 0.05460142960771918,
+      "verification_timeline": 0.8563447201251984,
+      "evidence_status": 0.1289066398702562,
+      "evidence_quality": 0.24008032228797674
+    },
+    {
+      "promise_status": 0.03445624051615596,
+      "verification_timeline": 0.7736728987097741,
+      "evidence_status": 0.07781388396397233,
+      "evidence_quality": 0.11500490847975016
+    },
+    {
+      "promise_status": 0.025036877170205116,
+      "verification_timeline": 0.6747708880901336,
+      "evidence_status": 0.05147131375037134,
+      "evidence_quality": 0.07337736698798836
+    }
+  ]
+}

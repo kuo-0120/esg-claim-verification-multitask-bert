@@ -1,0 +1,24 @@
+{
+  "promise_status": {
+    "Yes": 0.654366,
+    "No": 1.345634
+  },
+  "verification_timeline": {
+    "already": 0.517088,
+    "within_2_years": 2.488835,
+    "between_2_and_5_years": 0.611167,
+    "longer_than_5_years": 0.685896,
+    "N/A": 0.697013
+  },
+  "evidence_status": {
+    "Yes": 0.602802,
+    "No": 1.276325,
+    "N/A": 1.120873
+  },
+  "evidence_quality": {
+    "Clear": 0.159421,
+    "Not Clear": 0.333939,
+    "Misleading": 3.305826,
+    "N/A": 0.200815
+  }
+}

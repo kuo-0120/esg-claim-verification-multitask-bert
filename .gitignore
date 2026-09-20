@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+vpesg4k*.json
+outputs*/
+*.pt
+*.pth
+prediction_val.json
